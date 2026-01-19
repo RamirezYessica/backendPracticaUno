@@ -9,8 +9,6 @@ Características:
 - Marcar tareas como completadas
 - Persistencia en memoria (sin base de datos)
 
----
-
 ## Cómo ejecutar el backend
 
 ### Requisitos
@@ -19,17 +17,20 @@ Características:
 ### Pasos
 
 1. Ubicarse en la carpeta del backend:
-```bash
-cd backend
-2. Ejecutar la API:
-dotnet run
-3. La API estará disponible en:
+bash -> cd backendPracticaUno
+2. Ejecutar la api:
+dontnet run
+3. La API esta´ra disponible en:
 https://localhost:5001
 
 Endpoints disponibles
 GET /api/tasks
 POST /api/tasks
 PUT /api/tasks/{id}/complete
+
+Nota: Si no se tiene instalado previamente .net , al ejeccutar el comando dotnet run marcara un error en consola, por que primero se tiene que descargar e instalarlo.
+
+
 
 
 

@@ -482,19 +482,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NUEVO INGRESO\\.nuget\\packages\\": {}
+    "C:\\Users\\Yessi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NUEVO INGRESO\\Documents\\back\\back.csproj",
+      "projectUniqueName": "C:\\Users\\Yessi\\Documents\\Practicas_Trabajo\\backendPracticaUno\\back.csproj",
       "projectName": "back",
-      "projectPath": "C:\\Users\\NUEVO INGRESO\\Documents\\back\\back.csproj",
-      "packagesPath": "C:\\Users\\NUEVO INGRESO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NUEVO INGRESO\\Documents\\back\\obj\\",
+      "projectPath": "C:\\Users\\Yessi\\Documents\\Practicas_Trabajo\\backendPracticaUno\\back.csproj",
+      "packagesPath": "C:\\Users\\Yessi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yessi\\Documents\\Practicas_Trabajo\\backendPracticaUno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NUEVO INGRESO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Yessi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
