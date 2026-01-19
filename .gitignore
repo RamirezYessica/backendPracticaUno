@@ -1,0 +1,11 @@
+# Archivos generados por .NET
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.pdb
+
+# Logs
+*.log
